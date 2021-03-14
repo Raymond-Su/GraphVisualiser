@@ -3,7 +3,7 @@
 <p align="center"><i>A visualisation tool used to see graphs</i></p>
 
 <p align="center">
-  <img src="https://github.com/Raymond-Su/graphp-visualiser/blob/master/demo.gif" width="600" height="375"/>
+  <img src="https://github.com/Raymond-Su/graph-visualiser/blob/master/demo.gif" width="600" height="375"/>
 </p>
 <br/><br/>
 
