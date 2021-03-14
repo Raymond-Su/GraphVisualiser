@@ -5,12 +5,12 @@
 
 ### Installation Instructions
 
-1. Download this repo as a [ZIP file from GitHub](https://github.com/Raymond-Su/GraphVisualiser/archive/master.zip).
-2. Unzip the file and you should have a folder named `GraphVisualiser-master.zip`.
+1. Download this repo as a [ZIP file from GitHub](https://github.com/Raymond-Su/graph-visualiser/archive/master.zip).
+2. Unzip the file and you should have a folder named `graph-visualiser-master.zip`.
 3. Go into the repository using
    `cd graph-visualiser`
 4. Install dependadncies
-   `npm install`
+   `npm install`s
 5. Start the server
    `npm run start`
 6. The website should be live and accessible at [http://localhost:3000/](http://localhost:3000/)
