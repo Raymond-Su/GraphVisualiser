@@ -1,6 +1,10 @@
 <h1 align="center">Graph Visualiser</h1>
 
 <p align="center"><i>A visualisation tool used to see graphs</i></p>
+
+<p align="center">
+  <img src="https://github.com/Raymond-Su/graphp-visualiser/blob/master/demo.gif" width="600" height="375"/>
+</p>
 <br/><br/>
 
 ### Installation Instructions
